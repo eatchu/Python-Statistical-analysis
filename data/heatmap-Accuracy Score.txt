@@ -1,0 +1,10 @@
+import seaborn as sn # heatmap - Accuracy Score
+
+# confusion matrix heatmap 
+plt.figure(figsize=(6,6)) # chart size
+sn.heatmap(con_mat, annot=True, fmt=".3f", linewidths=.5, square = True);# , cmap = 'Blues_r' : map »ö»ó 
+plt.ylabel('Actual label');
+plt.xlabel('Predicted label');
+all_sample_title = 'Accuracy Score: {0}'.format(score)
+plt.title(all_sample_title, size = 18)
+plt.show()

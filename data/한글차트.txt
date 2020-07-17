@@ -1,0 +1,8 @@
+# 차트에서 한글 지원 
+from matplotlib import font_manager, rc
+font_name = font_manager.FontProperties(fname="c:/Windows/Fonts/malgun.ttf").get_name()
+rc('font', family=font_name)
+# 음수 부호 지원 
+import matplotlib
+matplotlib.rcParams['axes.unicode_minus'] = False
+import pandas as pd
