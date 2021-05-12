@@ -7,3 +7,9 @@ _이 레파지토리를 통하여 Python을 활용해 **간단한 통계분석 �
 
 ## **Library**
 > [Pandas](./chap01_Pandas) : 데이터 조작 및 분석 <br> [Matplotlib](./chap02_Matplot) : 데이터 시각화 <br> [Groupby](./chap03_Group_Apply) : 집계 함수 <br> [Numpy](./chap04_Numpy) : 다차원 배열 처리
+
+## **statistics**
+> [Statics](./chap05_Statics) : 기술/추론 통계 분석<br>
+
+## **Machine learning**
+> [Regression](./chap06_Regression) : 회귀분석 <br> [Textmining](./chap07_Textmining) : 자연어처리 기반 텍스트 분석 <br> [Classification](./chap08_Classification) : 지도학습기반의 분류분석 <br> [Ensamble](./chap09_Ensamble) : 여러 모델을 결합한 분석 기법 <br> [Clustering](./chap10_cluster) : 비지도학습기반의 군집분석
