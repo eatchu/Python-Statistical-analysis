@@ -6,4 +6,4 @@ _이 레파지토리를 통하여 Python을 활용해 **간단한 통계분석 �
 
 
 ## **Library**
-> [Pandas](./chap01_Pandas) : 데이터 조작 및 분석 <br> [Matplotlib](./chap02_Matplot) : 데이터 시각화 <br> [Groupby](./chap03_Group Apply) : 집계 함수 <br> [Numpy](./chap04_Numpy) : 다차원 배열 처리
+> [Pandas](./chap01_Pandas) : 데이터 조작 및 분석 <br> [Matplotlib](./chap02_Matplot) : 데이터 시각화 <br> [Groupby](./chap03_Group_Apply) : 집계 함수 <br> [Numpy](./chap04_Numpy) : 다차원 배열 처리
