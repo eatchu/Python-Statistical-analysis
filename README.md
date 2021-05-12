@@ -5,5 +5,5 @@ _이 레파지토리를 통하여 Python을 활용해 **간단한 통계분석 �
 자료에는 [Anaconda설치](./ppt/0.Anaconda_설치&Spyder_환경설정.pdf) 및 [Jupyter notebook 개발환경 구축](./ppt/0.JupyterNotebook_개발환경.pdf) 을 위한 pdf파일이 포함되어 있습니다._
 
 
-## **Function**
-> [Pandas]
+## **Library**
+> [Pandas](./chap01_Pandas) : 데이터 조작 및 분석 <br> [Matplotlib](./chap02_Matplot) : 데이터 시각화 <br> [Groupby](./chap03_Group Apply) : 집계 함수 <br> [Numpy](./chap04_Numpy) : 다차원 배열 처리
